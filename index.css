@@ -1,0 +1,172 @@
+main{
+    background-color: rgb(47, 49, 51);
+    margin-top: 250px;
+    width: 1236px;
+    height: 3370.25px;
+    margin-left: 618px;
+    padding-left: 24px;
+    padding-top: 36px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+.mainpage{
+    width: 844px;
+    height: 2541px;
+    
+}
+.main_info{
+    border: solid 1px;
+    border-color: rgb(230, 230, 230);
+    margin-bottom: 15px;
+    border-radius: 5px;
+    margin-left: 24px;
+    margin-top: 36px;
+}
+.main_info p{
+    color: #e6e6e6;
+    padding: 1px;
+    margin: 5px;
+    margin-bottom: 30px;
+}
+.main_info a{
+    color: rgb(196, 130, 203);
+}
+.mainimg{
+    margin-left: 122px;
+}
+.movie_info{
+    border: solid 1px;
+    border-color: rgb(230, 230, 230);
+    height: 925px;
+    border-radius: 5px;
+    margin-left: 24px;
+}
+.movie_info img{
+    margin: 5px;
+    margin-left: 50px;
+    
+}
+.movie_head{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    color: #C482CB;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    padding-left: 20px;
+}
+.movie_text1{
+    font-size: 20px;
+    color: #e6e6e6;
+    width: 480px;
+    float: left;
+    margin-left: 5px;
+}
+.movie_text1 a{
+    color: rgb(196, 130, 203);
+}
+.movie_text2{
+    font-size: 20px;
+    color: #e6e6e6;
+    float: left;
+    margin-left: 5px;
+}
+.movie_text2 a{
+    color: rgb(196, 130, 203);
+}
+.franchise{
+    border: solid 1px;
+    border-color: rgb(230, 230, 230);
+    margin-top: 25px;
+    border-radius: 5px;
+    margin-left: 24px;
+    height: 600px;
+}
+#video_games{
+    width: 200px;
+    height: 189px;
+    background: url(./videogamesbutton.webp);
+    display: inline-block;
+    margin-top: 10px;
+    border: solid 1px;
+    border-color: rgb(230, 230, 230);
+    border-radius: 5px;
+}
+#video_games:hover{
+    
+    background: url(./videogamesbutton2.jpg);
+}
+#fnaffranchise{
+    color:#C482CB;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.video_games_name{
+    margin-left: auto;
+    margin-right: auto;
+    color: #C482CB;
+    width: 50%;
+}
+.video_games{
+    width: 200px;
+    margin-left: 84px;
+    float: left;
+}
+#videogamestext{
+    color: #C482CB;
+}
+.books{
+    float: left;
+    width: 200px;
+    margin: 10px;
+    margin-left: 20px;
+}
+#books_photo{
+    width: 200px;
+    height: 189px;
+    background: url(./Books-Button.webp);
+    display: inline-block;
+    border: solid 1px;
+    border-color: #e6e6e6;
+    border-radius: 5px;
+}
+#books_photo:hover{
+    background: url(./Books-Button2.jpg);
+}
+.books_name{
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+#books_name{
+    color: #C482CB;
+}
+.tabletop{
+    float: left;
+    width: 200px;
+    margin: 10px;
+    margin-left: 10px;
+}
+#tabletopimg{
+    width: 200px;
+    height: 189px;
+    background: url(./tabletopgames.webp);
+    display: inline-block;
+    border: #e6e6e6 solid  1px;
+    border-radius: 5px;
+}
+#tabletopimg:hover{
+    background: url(./tabletopgames2.jpg);
+}
+#tabletop_name{
+    color: #C482CB;
+}
+.tabletop_name{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
