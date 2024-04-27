@@ -96,7 +96,7 @@ body{
 }
 #video_games:hover{
     
-    background: url(/assets/image/videogamesbutton2.jpg);
+    background: url(../image/videogamesbutton2.jpg);
 }
 #fnaffranchise{
     color:#C482CB;
@@ -128,14 +128,14 @@ body{
 #books_photo{
     width: 200px;
     height: 189px;
-    background: url(/assets/image/Books-Button.webp);
+    background: url(../image/Books-Button.webp);
     display: inline-block;
     border: solid 1px;
     border-color: #e6e6e6;
     border-radius: 5px;
 }
 #books_photo:hover{
-    background: url(/assets/image/Books-Button2.jpg);
+    background: url(../image/Books-Button2.jpg);
 }
 .books_name{
     margin-left: auto;
@@ -154,13 +154,13 @@ body{
 #tabletopimg{
     width: 200px;
     height: 189px;
-    background: url(/assets/image/tabletopgames.webp);
+    background: url(../image/tabletopgames.webp);
     display: inline-block;
     border: #e6e6e6 solid  1px;
     border-radius: 5px;
 }
 #tabletopimg:hover{
-    background: url(/assets/image/tabletopgames2.jpg);
+    background: url(../image/tabletopgames2.jpg);
 }
 #tabletop_name{
     color: #C482CB;
