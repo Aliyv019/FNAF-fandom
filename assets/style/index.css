@@ -170,3 +170,6 @@ body{
     margin-right: auto;
     width: 60%;
 }
+a{
+    text-decoration: none;
+}
