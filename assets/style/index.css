@@ -87,7 +87,7 @@ body{
 #video_games{
     width: 200px;
     height: 189px;
-    background: url(/assets/image/videogamesbutton.webp);
+    background: url(../image/videogamesbutton.webp);
     display: inline-block;
     margin-top: 10px;
     border: solid 1px;
