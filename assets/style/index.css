@@ -97,6 +97,7 @@ body{
 #video_games:hover{
     
     background: url(../image/videogamesbutton2.jpg);
+    transition-duration: 200ms;
 }
 #fnaffranchise{
     color:#C482CB;
@@ -136,6 +137,7 @@ body{
 }
 #books_photo:hover{
     background: url(../image/Books-Button2.jpg);
+    transition-duration: 200ms;
 }
 .books_name{
     margin-left: auto;
@@ -161,6 +163,7 @@ body{
 }
 #tabletopimg:hover{
     background: url(../image/tabletopgames2.jpg);
+    transition-duration: 200ms;
 }
 #tabletop_name{
     color: #C482CB;
